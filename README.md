@@ -1,6 +1,6 @@
 # prova01
 
-Prova em dart ("Calculadora").
+Prova utilizando flutter e dart ("Calculadora").
 
 ## Getting Started
 
